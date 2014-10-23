@@ -29,6 +29,14 @@ $(document).ready(function(){
             queue: false
         }
     });
+
+    $('.btn-youtube').hover(function(){
+        $(this).css('color','red');
+    },function(){
+        $(this).css('color','white');
+    });
+
+    $('.btn-youtube').off('mouseenter mouseleave');
  
     $('.grid-controls li a').click(function(){
         $('.grid-controls .current').removeClass('current');
