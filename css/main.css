@@ -417,6 +417,14 @@ background-color: transparent;
     color:fff;
 }
 
+.btn.btn-youtube:hover{
+  color:red;
+}
+
+.btn.btn-github:hover{
+  color:black;
+}
+
 input,.input-lg,button{
     border-radius:0;
 }
