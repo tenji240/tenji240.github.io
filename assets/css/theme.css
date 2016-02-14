@@ -1,0 +1,32 @@
+/*
+ Theme overrides for Hyperspace Template
+ @tenji240
+*/
+
+.inline {
+  margin: 0;
+  margin-bottom: 1em;
+  padding-left: 0;
+}
+
+.inline li {
+  display: inline-block;
+}
+
+.irregardless-section {
+  background-color:#3489af;
+}
+
+.shipped-section {
+  background-color: #0097d6;
+  background-image:linear-gradient(to bottom,#0097d6 0,#0ab7ff 100%);
+}
+
+.scoreboard-section {
+  background-color:#3fc380;
+}
+
+
+.artjustice-section {
+  background-color: #1fb3dd;
+}
