@@ -3,6 +3,12 @@
  @tenji240
 */
 
+section p {
+  font-weight: 300;
+  font-size: medium;
+}
+
+
 .inline {
   margin: 0;
   margin-bottom: 1em;
@@ -29,4 +35,10 @@
 
 .artjustice-section {
   background-color: #1fb3dd;
+}
+
+.aboutme-section {
+  background: #6441A5; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #6441A5 , #2a0845); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #6441A5 , #2a0845); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }

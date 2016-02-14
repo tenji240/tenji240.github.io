@@ -1701,7 +1701,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
-		font-weight: bold;
+		font-weight: normal;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
 	}
