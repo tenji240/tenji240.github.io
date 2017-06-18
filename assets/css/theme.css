@@ -8,7 +8,6 @@ section p {
   font-size: medium;
 }
 
-
 .inline {
   margin: 0;
   margin-bottom: 1em;
@@ -30,11 +29,6 @@ section p {
 
 .scoreboard-section {
   background-color:#3fc380;
-}
-
-
-.artjustice-section {
-  background-color: #1fb3dd;
 }
 
 .aboutme-section {
